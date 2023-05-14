@@ -1,4 +1,4 @@
-<img align="right" height="800em" src="https://github.com/brt9/brt9/blob/main/githubcard.svg"/>
+<img align="right" height="600em" src="https://github.com/brt9/brt9/blob/main/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brt9&color=green" alt="Profile views" /> </p>
 
